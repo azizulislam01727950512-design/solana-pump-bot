@@ -2,7 +2,9 @@
 
 import telebot
 
-BOT_TOKEN = "8862192124:AAHBuWhTdndS0mTBvNWsiTMZs-tEWpTEGfs"
+# আপনার নতুন সচল টেলিগ্রাম টোকেন
+BOT_TOKEN = "7993760226:AAGYFqdER1XSTf6Y6TCX_yePcCcXf8qfh6s"
+
 bot = telebot.TeleBot(BOT_TOKEN)
 OWNER_WALLET = "BeFY9t9MCLKGP5Ka5qahN9ogzbro5q87iJXgEMLGfWCr"
 

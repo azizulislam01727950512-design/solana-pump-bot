@@ -1,6 +1,7 @@
 # config.py - বটের সব সেটিংস ও ডেটাবেজ ফাইল
 
 BOT_TOKEN = "8862192124:AAHBuMhTdnd50mTByNMsiTMZs-tEWpTEGfs"
+bot = BOT_TOKEN
 OWNER_WALLET = "8efY9t9MCLKGPSKa5qahN9ogzbro5q87i3XgENLGfwCr" 
 
 user_database = {}
